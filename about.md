@@ -20,6 +20,4 @@ key: page-about
 
 I have caught your interest somehow so I'll fill you in on what you may want to know. My name is Bodie. I am a biologist, a programmer, and I like to get as close to self-sufficiency as possible.
 
-I recently began my graduate studies (Fall 2019) at the University of Georgia as a PhD student in their Integrated Life Science program.
-
-This site serves as a dumping ground for my coursework, thoughts while reading, research progress, and personal activities. I will do my best to keep it organized.
+I like to build things. It could be a cabinet or software, I enjoy the process of building. 
